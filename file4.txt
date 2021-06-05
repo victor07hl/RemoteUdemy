@@ -1,1 +1,2 @@
 This is file4.txt created on bugsbranch branch
+This line is added on busbranch branch for probe merge command on master branch 
